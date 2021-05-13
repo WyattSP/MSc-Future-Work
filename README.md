@@ -45,7 +45,7 @@ The above figure shows a properly orientated mesh with the functional surface or
 
 ### Results obtained from molaR analysis methods
 
-<img src = "figures/molarRfigs@600x.png">
+<img src = "figures/molarRfigs@600x.png width="200"">
 
 DNE, OPCR, and Surface Slope results for each of the four species analyzed.
 
