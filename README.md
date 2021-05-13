@@ -6,7 +6,7 @@ Code for two future work recommendations from MSc thesis.
 
 ## Ornstein-Uhlenbeck with Time-Averaging
 
-Effects of time-averaging on a Ornstein-Uhlenbeck (OH) process to demonstrate the effect on observing parallel evolution. After the model is run over a certain amount of iterations for a for a paired run, the angle between the vectors connecting the time bins is calculated. Code written in python and run from Spyder 4.
+Effects of time-averaging on a Ornstein-Uhlenbeck (OH) process to demonstrate the occurance of parallel evolution in fossil data. After the model is run over a certain amount of iterations for a species-pair, the angle between the vectors connecting the time bins is calculated. Code written in python and run from Spyder 4.
 
 ### Methods
 
