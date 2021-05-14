@@ -49,7 +49,7 @@ The above figure shows a properly orientated mesh with the functional surface or
 
 DNE, OPCR, and Surface Slope results for each of the four species analyzed.
 
-<img src = "figures/slopefig@600x.png">
+<img src = "figures/slopeTH.png">
 
 When the distribution of triangle slopes are analyzed, one can see parallel trends between the two lineages, whereby we can see an increase in near flat surfaces on each element.
 
