@@ -45,12 +45,22 @@ The above figure shows a properly orientated mesh with the functional surface or
 
 ### Results obtained from molaR analysis methods
 
-<img src = "figures/molaRfigs@600x.png">
+DNE, OPCR, and Surface Slope results are presented below for each of the four species analyzed.
 
-DNE, OPCR, and Surface Slope results for each of the four species analyzed.
+<img src = "figures/DNE_F.png">
 
-<img src = "figures/slopeTH.png">
+DNE
+
+<img src = "figures/OPCR_F.png">
+
+OPCR
+
+<img src = "figures/AS_F.png">
+
+Surface Slope
 
 When the distribution of triangle slopes are analyzed, one can see parallel trends between the two lineages, whereby we can see an increase in near flat surfaces on each element.
 
-More work however, needs to be done. This should be an outline for future exploration.
+<img src = "figures/SlopeTH_v2.png">
+
+More work however needs to be done. This should be an outline for future exploration.
