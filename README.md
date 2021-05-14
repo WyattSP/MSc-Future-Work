@@ -49,15 +49,9 @@ DNE, OPCR, and Surface Slope results are presented below for each of the four sp
 
 <img src = "figures/DNE_F.png">
 
-DNE
-
 <img src = "figures/OPCR_F.png">
 
-OPCR
-
 <img src = "figures/AS_F.png">
-
-Surface Slope
 
 When the distribution of triangle slopes are analyzed, one can see parallel trends between the two lineages, whereby we can see an increase in near flat surfaces on each element.
 
