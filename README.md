@@ -43,6 +43,10 @@ The above figure shows a mesh with its face orientated towards the inside.
 
 The above figure shows a properly orientated mesh with the functional surface orientated towards the outside. Use the *Invert Faces Orientation* function to invert mesh faces.
 
+Using the Laplacian Smooth function in MeshLab (steps = 3; 1D boundary smoothing selected, cotangent weighting selected) was also tried, as recommended by Pampush et al. (2016), to see if it changed the trends between the species pairs. It did not. Using the smoothed meshes the results for DNE were 480, 357, 361, 298. Using the unsmoothed meshes the results for DNE were 1000, 613, 718, 446. Absolute values for DNE changed when smoothed versus unsmoothed mesh files were used in molaR::DNE, but the overall trends between the species pairs were the same.
+
+* Smoothed mesh files have been added to the Trimmed_Mesh_Files folder with the ending _LS.
+
 ### Results obtained from molaR analysis methods
 
 DNE, OPCR, and Surface Slope results are presented below for each of the four species analyzed.
